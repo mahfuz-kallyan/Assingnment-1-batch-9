@@ -143,3 +143,48 @@ body{
     margin-top: 40px;
     margin-right: 400px;
 }
+/* Holiday section styles */
+.holiday-container{
+    width: 1320px;
+    height: 986.07px;
+    margin: 0 auto;
+    margin-top: 100px;
+    position: relative;
+}
+.text-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.offer{
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 20px;
+}
+.theory{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 200px;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+.solid-color{
+    background-color: rgb(255, 0, 0);
+    width: 1320px;
+    height: 229px;
+    position:absolute;
+    top: 77%;
+}
+.gift-box{
+    width: 674.63px;
+    height: 577.7px;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
